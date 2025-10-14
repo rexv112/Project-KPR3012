@@ -4,7 +4,7 @@
 Welcome to the interactive game for learning Pythagoras Theorem!
 
 <p align="center">
-  <img src="IndexA1.gif" alt="Animated picture" width="300"/>
+  <img src="Gemini_Generated_Image_g3fj55g3fj55g3fj.gif" alt="Animated picture" width="300"/>
 </p>
 
 <p align="center">
